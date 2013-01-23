@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<game>
+  <foldername>Game01</foldername>
+  <exeName>Game01.exe</exeName>
+  <title>Walker</title>
+  <version>0.0.0.1</version>
+  <download_loc>http://bubblegum.dyndns-ip.com:8080/games/game01/version0_0_0_1.zip</download_loc>
+  <description>First game just trying out some basics</description>
+</game>
